@@ -1,2 +1,2 @@
 # Breast-Cancer-Detection-Final-Project
-THE FINAL PROJECT OF BREAST CANCER DETECTION WITH A BASIC CNN MODEL AND A TRANSFER LEARNING MODEL for course "Implementing Artificial Neural Networks with Tensorflow", University of Osnabrueck WiSe 2022/23 
+The final project of breast cancer detection with a basic cnn model and a transfer learning model for the course "Implementing Artificial Neural Networks with Tensorflow", University of Osnabrueck Wi/Se 2022/23
