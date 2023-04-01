@@ -9,6 +9,8 @@ How to understand the coding system:
 
 The "IANN_BCP_Code" folder holds all the final and correct codes mentioned in our project report. The images used in the report that are not displayed in the codes are placed in the "IMAGES" folder. 
 The other documents in this folder are pre-optimised codes that are not guaranteed to be fully functional. However, we wanted to display them to give you the possibility of seeing our progress throughout the project. 
+In addition, we added our project report and meeting summary to the folder "Papers". 
+Our presentation, as well as a link to the video (due to storage capacity), is placed under the folder "Presentation". 
 
 All the best, 
 
